@@ -1,0 +1,8 @@
+.venv
+*.pyc
+*.html
+*.res
+tags
+proxies.txt
+*.sql
+*.log
