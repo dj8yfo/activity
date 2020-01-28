@@ -18,5 +18,4 @@ cd morphs-swap/
 python -m scrapy crawl swap-fledge -a loc={loc} -a cat={cat} -a per_page={per_page}
 python multirunner.py {start_index}  # alternatively, for a group of locations, categories
 ```
-your eyes WILL HURT badly for no obvious reason if you run
-this regularly
+
